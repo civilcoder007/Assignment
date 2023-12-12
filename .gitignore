@@ -1,0 +1,10 @@
+/node_modules
+.DS_Store
+build/
+.idea/
+.DS_Store/
+**/.DS_Store/*
+*.iml
+*.imi
+build/
+.DS_Store
